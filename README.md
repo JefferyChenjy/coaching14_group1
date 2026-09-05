@@ -1,13 +1,13 @@
 # Overview
 Group activity to familiarize with git
-
+#number of commit is only 5 (by Jeffery) 
 # Commands
 1. `git init` - initializes a git repository
 2. `git status` - shows changes made to repository, categorised by tracked/untracked.
-3. `git diff`
+3. `git diff` - show the diff
 4. `git add <filename>` 
 5. `git reset <filename>`
-6. `git commit -m "<descriptive message>"`
+6. `git commit -m "<descriptive message>"` - to commit in local repo
 7. `git log`
 8. `git branch <branch name>`
 9. `git checkout <branch name>`
