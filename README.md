@@ -1,6 +1,6 @@
 # Overview
 Group activity to familiarize with git
-
+#number of commit is only 1 (by Jeffery)
 # Commands
 1. `git init` - initializes a git repository
 2. `git status` - shows changes made to repository, categorised by tracked/untracked.
