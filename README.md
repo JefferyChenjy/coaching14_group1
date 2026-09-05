@@ -13,7 +13,6 @@ Group activity to familiarize with git
 9. `git checkout <branch name>`
 10. `git merge <branch name>`
 11. `git branch -d <branch name>`
-
 # Code Contributors
 - TK
-- John
+- Jonathan Tan 
